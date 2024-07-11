@@ -9,4 +9,4 @@
     apply.src = 'https://d2cxf26suf1qae.cloudfront.net/static/site/js/widget-client.js';
     var s = document.getElementsByTagName('script')[0];
     s.parentNode.insertBefore(apply, s);
-})('https://test.paradox.ai', 'bkumrtstvhrgaimjtdhj');
+})('https://test.paradox.ai', 'rtqiilmraytoplizfwzj');
